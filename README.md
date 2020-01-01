@@ -10,6 +10,7 @@ You can find the ongoing tasks here: https://trello.com/b/w1tCZGch/thought-to-te
 
 ## Installation
 
+These instructions are for setting up a local development environment
 
 1. Clone the repository
 2. Run ```npm install```
