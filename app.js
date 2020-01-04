@@ -8,7 +8,7 @@ require("dotenv/config");
 var cors = require("cors");
 var routes = require("./routes");
 var models = require("./models");
-var sequelize = require("./config/dbConfig")
+var sequelize = require("./config/dbconfig")
 var pwLib = require("./libs/password-hash-lib")
 
 var app = express();
