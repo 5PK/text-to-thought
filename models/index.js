@@ -1,4 +1,4 @@
-var sequelize = require("../config/dbConfig")
+var sequelize = require("../config/dbconfig")
 
 const models = {
   User: sequelize.import('./user'),
